@@ -9,6 +9,14 @@ Transform raw CSV/Excel data into intelligent insights using LLMs and ML — in 
 
 SaaS-based AI-powered data intelligence platform for CSV and Excel datasets.
 
+## Source Code
+The source code is **private**.
+
+If you are interested in accessing the code, you may request it by:
+**[Opening an Issue](../../issues/new)** with your name and reason for interest.
+
+> Note: Access is granted **solely at my discretion**. Not all requests will be approved.
+
 🔗 Live Demo: https://sepiru-ai.streamlit.app
 
 ## Why Sepiru AI?
